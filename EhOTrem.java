@@ -1,6 +1,6 @@
 package eh_o_trem;
 import robocode.*;
-//import java.awt.Color; 
+//import java.awt.Color; Nova versão atualizada
 
 // API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.html
 
